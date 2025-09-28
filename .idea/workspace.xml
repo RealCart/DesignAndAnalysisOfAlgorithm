@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="218f48fb-993c-4445-a1d4-875683655e8b" name="Изменения" comment="add metrics">
-      <change afterPath="$PROJECT_DIR$/src/features/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/beka/assignment/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/beka/assignment/features/ClosestPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/beka/assignment/features/DeterministicSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/com/beka/assignment/Bench.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/com/beka/assignment/MergeSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/com/beka/assignment/QuickSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/beka/assignment/features/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Metrics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/beka/assignment/features/Metrics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/beka/assignment/features/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +44,7 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
@@ -44,6 +54,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/bexultan/IdeaProjects/Analysis and design algorithm/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
     &quot;Приложение.Main.executor&quot;: &quot;Run&quot;
   }

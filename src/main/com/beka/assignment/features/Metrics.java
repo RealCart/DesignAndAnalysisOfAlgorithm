@@ -1,6 +1,7 @@
-package features;
+package main.com.beka.assignment.features;
 
 public final class Metrics {
+
     public long comparisons;
     public long moves;
     public long allocations;
