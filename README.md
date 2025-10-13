@@ -29,7 +29,7 @@ Upper bound: T(n) ≤ T(⌈n/5⌉) + T(7n/10 + O(1)) + Θ(n). By Akra–Bazzi, t
 
 Closest Pair of Points (2D)
 Recurrence: T(n) = 2T(n/2) + Θ(n) (linear merge of Py + strip scan). By the Master Theorem, T(n) = Θ(n log n). The strip checks at most a constant (≤ 7–8) neighbors per point due to packing; recursion depth is Θ(log n).
-Constant‑factor discussion (what to look for)
+Constant‑factor discussion 
 
 QuickSort: branch mispredictions and partition scheme; random pivot vs median‑of‑three; cache‑friendly contiguous scans.
 
@@ -38,8 +38,6 @@ MergeSort: with single temp buffer vs naïve subarray copies (GC pauses, allocat
 Select: linear but with higher constant than randomized select; small‑n cutoff matters.
 
 Closest Pair: the strip constant (≤8) dominates at large n; copying Py vs stable partition impacts cache.
-
-Summary (fill after running)
 
 Theory vs measurements – alignment: e.g., MergeSort time ≈ c·n log n, QuickSort ≈ c'·n log n with lower constant; Select ≈ c''·n.
 
